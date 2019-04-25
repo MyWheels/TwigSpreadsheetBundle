@@ -1,5 +1,6 @@
 # TwigSpreadsheetBundle
 
+[![Teavis CI: Build Status](https://travis-ci.com/MyWheels/TwigSpreadsheetBundle.png?branch=master)](https://travis-ci.com/MyWheels/TwigSpreadsheetBundle)
 [![Teavis CI: Build Status](https://travis-ci.org/MewesK/TwigSpreadsheetBundle.png?branch=master)](https://travis-ci.org/MewesK/TwigSpreadsheetBundle)
 [![Scrutinizer: Code Quality](https://scrutinizer-ci.com/g/MewesK/TwigSpreadsheetBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/MewesK/TwigSpreadsheetBundle/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/MewesK/TwigSpreadsheetBundle/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/MewesK/TwigSpreadsheetBundle/?branch=master)
